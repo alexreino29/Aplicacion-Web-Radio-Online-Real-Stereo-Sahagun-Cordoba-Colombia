@@ -1,0 +1,24 @@
+
+ 
+  .nav-effect {
+    transition: all 0.3s ease;
+  }
+
+  .nav-effect:hover {
+    font-size: 1.1rem;
+    color: #007BFF !important; 
+  }
+
+ 
+  .navbar-brand img {
+    transition: transform 0.3s ease;
+  }
+
+  .navbar-brand img:hover {
+    transform: rotate(360deg); 
+  }
+
+  
+  .navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
